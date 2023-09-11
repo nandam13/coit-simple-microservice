@@ -45,8 +45,8 @@
 	</build>
 	<distributionManagement>
 		<repository>
-			<id>coit-backend1</id>
-			<name>coit-backend1</name>
+			<id>coit-backend1-release</id>
+			<name>coit-backend1-release</name>
 			<url>http://34.204.53.212:8081/repository/coit-backend1-release/</url>
 		</repository>
 		<snapshotRepository>
